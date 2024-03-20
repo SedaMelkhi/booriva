@@ -1,9 +1,12 @@
+import Zarina from './Zarina';
+
 import Seda from './Seda';
 
 function App() {
   return (
     <div className="App">
-      Пока! <Seda />
+      Пока! <Zarina />
+      <Seda />
     </div>
   );
 }

@@ -3,7 +3,7 @@ import Zarina from './Zarina';
 function App() {
   return (
     <div className="App">
-      Пока! <Zarina />{' '}
+      Пока! <Zarina />
     </div>
   );
 }

@@ -1,11 +1,12 @@
-import Zarina from './Zarina';
+import CategoryProduct from './pages/categoryProduct/CategoryProduct';
+import HomePage from './pages/HomePage/HomePage';
 
 function App() {
   return (
     <div className="App">
-      Пока! <Zarina />
+      <HomePage />
+      {/*<CategoryProduct/>*/}
     </div>
   );
 }
-
 export default App;

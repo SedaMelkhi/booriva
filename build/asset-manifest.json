@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a81fd1c4.css",
+    "main.js": "/static/js/main.b1e15db1.js",
+    "static/media/newcol.png": "/static/media/newcol.c0a7230daeb628b7c8f6.png",
+    "static/media/card-bomber.png": "/static/media/card-bomber.b0d836c59b2818c2a3c2.png",
+    "static/media/card-dress.png": "/static/media/card-dress.69731f33d4f447a17cdc.png",
+    "static/media/card-t-shirt.png": "/static/media/card-t-shirt.3e0366dca60f23c5ec76.png",
+    "static/media/category-t-shirt.png": "/static/media/category-t-shirt.af90a8265103340e42da.png",
+    "static/media/category-hoodie.png": "/static/media/category-hoodie.32da372e2c2b04fe9c58.png",
+    "static/media/category-costume.png": "/static/media/category-costume.dc9bd7c4ba6fef8935d9.png",
+    "static/media/category-dress.png": "/static/media/category-dress.a6a45fc29c71ddb2060b.png",
+    "static/media/category-up.png": "/static/media/category-up.4ee6b1b07bc3fcbc9413.png",
+    "static/media/card-sweatshirt.png": "/static/media/card-sweatshirt.0c4f9aa302f655086870.png",
+    "static/media/category-bottom.png": "/static/media/category-bottom.e0c8476d9273d15b82de.png",
+    "static/media/sundaybestrusbylnce.otf": "/static/media/sundaybestrusbylnce.c4b1c1345bf0ae9d313a.otf",
+    "index.html": "/index.html",
+    "main.a81fd1c4.css.map": "/static/css/main.a81fd1c4.css.map",
+    "main.b1e15db1.js.map": "/static/js/main.b1e15db1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a81fd1c4.css",
+    "static/js/main.b1e15db1.js"
+  ]
+}
